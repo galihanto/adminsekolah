@@ -1,0 +1,2 @@
+# adminsekolah
+tugas admin sekolah.
